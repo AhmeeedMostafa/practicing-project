@@ -1,2 +1,2 @@
-﻿#About
- This is a practice project for git
+#About
+This is a test
